@@ -1,0 +1,62 @@
+#menu{
+  background-color: #FF6347;
+}
+#menu p {
+  color: white;
+}
+#ul a {
+    color: white;
+}
+
+
+
+.rodape p {
+    text-align: center;
+    color:#A9A9A9;
+    margin-top:17px;
+    font-size: 9pt;
+
+  }
+
+  #a img{
+    position:ABSOLUTE;
+    left:900px;
+    width: 300px;
+    top:109px;
+  }
+
+
+ 
+  
+
+.conteudo{
+  left:200px;
+  width: 61%;
+  height: auto;
+  position:relative;
+  border: solid #808080;
+
+}
+
+.conteudo p,h3,h1 {
+  text-indent: 50px;
+
+}
+
+
+.conteudo h3 {
+  border-bottom:solid #808080 1px;
+  border-length:00px;
+  padding-bottom: :70px;
+  width: 80%;
+  position:relative;
+  left:20px;
+  padding-bottom: 20px;
+}
+
+
+
+
+
+
+  
